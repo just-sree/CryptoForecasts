@@ -61,4 +61,9 @@ To replicate this project, ensure you have the following:
 - Dominance of Bitcoin and Ethereum in market capitalization.
 - Stablecoins (USDT, USDC) showcased consistent value and liquidity contributions.
 - Predictive analysis highlighted periodic market cycles influenced by macroeconomic events.
+
+## Dashboards
+![BTC](image.png)
+![ETH](image-1.png)
+![ADA](image-2.png)
 ---
